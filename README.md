@@ -29,4 +29,5 @@ iLogistech steps into tackling these issues by providing a logistics management 
 By implementing cutting-edge 3PL logistics software - iLogistech, we helped an American logistics company overcome inefficiencies and scale operations effortlessly. Read more to discover how we boosted their profitability, streamlined processes, and reduced IT costs.
 
 Explore The Logistics Scaling Story: https://mechsoftgroup.com/case-studies/3pl-management-software
+
 Book a Free Demo: https://mechsoftgroup.com/products/3pl-logistics-software
