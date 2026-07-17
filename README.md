@@ -6,6 +6,8 @@ iLogistech steps into tackling these issues by providing a logistics management 
  - 66% Reduction in budget
  - 30% Improvement in profit margins & cash flow
 
+Book a Free Demo - https://mechsoftgroup.com/products/3pl-logistics-software
+
 # Features
  - Order Processing
  - WH Inbound Operations
